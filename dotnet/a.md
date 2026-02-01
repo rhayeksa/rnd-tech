@@ -2,7 +2,7 @@
 
 ## Apa itu .NET?
 
-.NET adalah platform / ekosistem untuk membangun aplikasi dan .NET bukanlah bahasa pemrogramman.
+.NET adalah platform / ekosistem untuk membangun aplikasi. Dan .NET bukanlah bahasa pemrogramman.
 
 ## Bahasa pemrograman di .NET
 
@@ -68,7 +68,7 @@
 
 3. MAUI (.NET MAUI)
    - bikin aplikasi mobile/desktop (Android, iOS, Windows, macOS)
-   - penerus Xamarin
+   - penerus Xamarin (framework untuk membuat aplikasi mobile (Android & iOS) menggunakan C# + .NET)
 
 4. WPF / WinForms
    - desktop Windows
@@ -86,10 +86,10 @@
 3. dotnet CLI
    - command-line tools
    - contoh:
-     - dotnet new
-     - dotnet run
-     - dotnet build
-     - dotnet test
+     - dotnet new (membuat project)
+     - dotnet run (menjalankan app)
+     - dotnet build (Compile project)
+     - dotnet test (Menjalankan unit test)
 
 ## Package manager
 
@@ -147,4 +147,3 @@ Bedanya:
 
 - .NET sangat kuat di Windows ecosystem + enterprise
 - Java sangat kuat di cross-platform server ecosystem sejak dulu
-
